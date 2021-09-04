@@ -14,4 +14,9 @@ Ladakh is a land of **high passes**, it is the most favorite trip for every bike
   2.Miami
   3.Beaches
   4.Pubs
+* Backpack  
+    * SunScreen
+    * Towel
+    * goggles
+    
 
