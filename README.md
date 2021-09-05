@@ -18,6 +18,13 @@ Ladakh is a land of **high passes**, it is the most favorite trip for every bike
     * SunScreen
     * Towel
     * goggles
-**[LinkToAboutMe](AboutMe.md)**    
+**[LinkToAboutMe](AboutMe.md)** 
+***
+# My favorite food & drinks
+|  Food  | Chicken Fry |  Budwiser | Prawns     |
+|  :--:  | :-----:     | :-----:   | :---:      |
+|location| kukatpally  | Hyvee     | Bheemavaram|
+|Amount  | $5          | $20       | $15        |
+
 
 
