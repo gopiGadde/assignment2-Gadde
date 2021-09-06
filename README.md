@@ -26,6 +26,7 @@ Ladakh is a land of **high passes**, it is the most favorite trip for every bike
 |location| kukatpally  | Hyvee     | Bheemavaram|
 |Amount  | $5          | $20       | $15        |
 ---
+#  Quotes
 >I'm a slow walker, but I never walk back-*Abraham lincoln*
 >Dare to stand alone, even when the whole world is against you-*Unknown*
 *** 
